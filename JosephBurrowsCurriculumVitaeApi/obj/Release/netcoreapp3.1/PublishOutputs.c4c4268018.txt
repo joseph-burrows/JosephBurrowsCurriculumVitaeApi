@@ -1,0 +1,9 @@
+C:\Users\joebu\AppData\Local\Temp\bbac15a3-c471-4c1b-94b3-98bf743b9f06\JosephBurrowsCurriculumVitaeApi.exe
+C:\Users\joebu\AppData\Local\Temp\bbac15a3-c471-4c1b-94b3-98bf743b9f06\appsettings.Development.json
+C:\Users\joebu\AppData\Local\Temp\bbac15a3-c471-4c1b-94b3-98bf743b9f06\appsettings.json
+C:\Users\joebu\AppData\Local\Temp\bbac15a3-c471-4c1b-94b3-98bf743b9f06\curriculumvitae.json
+C:\Users\joebu\AppData\Local\Temp\bbac15a3-c471-4c1b-94b3-98bf743b9f06\JosephBurrowsCurriculumVitaeApi.dll
+C:\Users\joebu\AppData\Local\Temp\bbac15a3-c471-4c1b-94b3-98bf743b9f06\JosephBurrowsCurriculumVitaeApi.deps.json
+C:\Users\joebu\AppData\Local\Temp\bbac15a3-c471-4c1b-94b3-98bf743b9f06\JosephBurrowsCurriculumVitaeApi.runtimeconfig.json
+C:\Users\joebu\AppData\Local\Temp\bbac15a3-c471-4c1b-94b3-98bf743b9f06\JosephBurrowsCurriculumVitaeApi.pdb
+C:\Users\joebu\AppData\Local\Temp\bbac15a3-c471-4c1b-94b3-98bf743b9f06\Newtonsoft.Json.dll
