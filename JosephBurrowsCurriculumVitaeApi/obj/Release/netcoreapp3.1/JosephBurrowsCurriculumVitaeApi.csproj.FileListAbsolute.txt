@@ -21,3 +21,6 @@ C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurricu
 C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurriculumVitaeApi\obj\Release\netcoreapp3.1\JosephBurrowsCurriculumVitaeApi.dll
 C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurriculumVitaeApi\obj\Release\netcoreapp3.1\JosephBurrowsCurriculumVitaeApi.pdb
 C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurriculumVitaeApi\obj\Release\netcoreapp3.1\JosephBurrowsCurriculumVitaeApi.genruntimeconfig.cache
+C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurriculumVitaeApi\bin\Release\netcoreapp3.1\josephburrows.dev\curriculumvitae.json
+C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurriculumVitaeApi\bin\Release\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurriculumVitaeApi\bin\Release\netcoreapp3.1\AWSSDK.S3.dll

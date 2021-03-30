@@ -21,3 +21,6 @@ C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurricu
 C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurriculumVitaeApi\bin\Debug\netcoreapp3.1\curriculumvitae.json
 C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurriculumVitaeApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurriculumVitaeApi\obj\Debug\netcoreapp3.1\JosephBurrowsCurriculumVitaeApi.csproj.CopyComplete
+C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurriculumVitaeApi\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurriculumVitaeApi\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\joebu\source\repos\JosephBurrowsCurriculumVitaeApi\JosephBurrowsCurriculumVitaeApi\bin\Debug\netcoreapp3.1\josephburrows.dev\curriculumvitae.json

@@ -1,0 +1,101 @@
+﻿{
+    "firstName": "Joseph",
+    "lastName": "Burrows",
+    "address": "Colchester, Essex CO4 3PH",
+    "phoneNumber": "07739519379",
+    "email": "joeburrows9672@googlemail.com",
+    "linkedIn": "https://www.linkedin.com/in/joseph-burrows/",
+    "gitHub": "https://github.com/joseph-burrows",
+    "education": [
+        {
+            "institutionName": "The University of Essex",
+            "qualificationName": "BSc (Hons) Computer Science (including Placement Year)",
+            "grade": "First (89%)",
+            "startYear": 2016,
+            "endYear": 2020
+        },
+        {
+            "institutionName": "The Sixth Form College, Colchester",
+            "qualificationName": "A-Levels: Computing (A), Electronics (A*), Chemistry (B), English Literature (B)",
+            "grade": null,
+            "startYear": 2013,
+            "endYear": 2015
+        }
+    ],
+    "workExperience": [
+        {
+            "companyName": "Amazon",
+            "roleName": "Business Analyst",
+            "startDate": "2020-07-01T00:00:00",
+            "endDate": "2021-03-01T00:00:00",
+            "description": ">> Created and identified automation solutions for the logistics network team utilizing Python and various AWS technologies: created an automated scheduling validation tool for the reactive scheduling team bringing the validation time per case from 8 minutes to under 2 minutes.>> Responsible for engaging with stakeholders to deliver interactive dashboards in Tableau / PowerBI to provide insights into key business metrics: created a dashboard showing the inbound capacity utilization of all EU sites on a regional level, allowing insights into which sites are over or under scheduled – providing visibility that was not achievable at this level before.>> Building & maintaining complex and efficient SQL queries in a distributed data warehousing environment",
+            "companyUrl": null
+        },
+        {
+            "companyName": "Hiscox",
+            "roleName": "Year in Industry .NET Developer",
+            "startDate": "2018-08-01T00:00:00",
+            "endDate": "2019-09-01T00:00:00",
+            "description": ">> Worked extensively on an internal web application utilizing a C# and SQL server back-end with an Angular 2 / 3 front-end, servicing hundreds of internal users per day - utilizing TDD and CI/CD pipelines.>> Sole developer on a 3-month long proof of concept investigating the viability of an in-house natural language processing solution, developed in Python and using open-source frameworks such as Tesseract OCR and SpaCy which delivered an extraction accuracy rate of >80%.>> Extensively involved in the development of an external facing pricing API, again utilizing a C# and SQL server back-end with an Azure Service Bus queuing & messaging framework and a micro services architecture - hosted & deployed on an Azure Service Fabric instance. Experience working with WPF after delivering the majority of the internal front-end administration screens.",
+            "companyUrl": null
+        },
+        {
+            "companyName": "Colchester Hospital NHS Trust",
+            "roleName": "Automation Developer Intern",
+            "startDate": "2018-01-01T00:00:00",
+            "endDate": "2018-03-01T00:00:00",
+            "description": ">> 3-month long internship with Colchester hospital as an Automation Developer, contributing to an initiative seeking to move the NHS trust towards paperless systems. This involved extensive collaboration with clinical and non-technical staff to gather meaningful requirements and pain points - then communicating this to the technical team.",
+            "companyUrl": null
+        },
+        {
+            "companyName": "Systems Created Ltd",
+            "roleName": "Junior Programmer",
+            "startDate": "2015-06-01T00:00:00",
+            "endDate": "2016-06-01T00:00:00",
+            "description": ">> Acting in a DevOps capacity, developed and maintained B2B applications end-to-end in VB.NET for a large variety of end-users, including providing technical remote support, identifying bugs, developing solutions and deploying them into production.>> Experience dealing with legacy code in languages with little available documentation, including VB6 and DOS applications. This included experience dealing with a variety of database platformsincluding MySQL and SQL Server.",
+            "companyUrl": null
+        }
+    ],
+    "skills": [
+        {"skillName": ".NET", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "C#", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "Azure", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "Java", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "Python", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "SpaCy", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "NLTK", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "JavaScript", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "Angular", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "HTML5", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "SQL", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "TDD", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "AWS", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "Object-oriented Design", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "SOLID principles", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "Octopus", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "TeamCity", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "CI/CD", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "Git", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "ETL", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "Tableau", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "PowerBI", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "Couchbase", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "NoSQL", "skillProficiency": null, "skillType": 0 },
+        {"skillName": "RabbitMQ", "skillProficiency": null, "skillType": 0 }
+        
+    ],
+    "achievements": [
+        {
+            "achievementName": "Dean's List",
+            "achievementDescription": "Included on the Dean’s list for excellence in both my first and second year of university."
+        },
+        {
+            "achievementName": "KF Bowden Memorial Prize",
+            "achievementDescription": "Awarded the KF Bowden Memorial prize for first, second and last year which was awarded to the top 4 highest marking CSEE students in each year."
+        },
+        {
+            "achievementName": "BCS Prize",
+            "achievementDescription": "Awarded the BCS prize which is awarded to the top 5 highest-marking students across several STEM degrees."
+        }
+    ]
+}
